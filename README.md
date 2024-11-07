@@ -3,7 +3,7 @@
 
 ## 📂 폴더 목록
 
-Development-notepad/
+```Development-notepad/
 ├── .idea/
 ├── static/
 │   └── img/
