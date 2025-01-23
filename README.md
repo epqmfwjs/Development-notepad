@@ -16,7 +16,7 @@
 │     |           └── 홈서버구축해보기/
 │     ├── javaMemo/
 |     ├── KwanghyunWorld 기록/
-│           └── KwanghyunWorld 관리일지/
+│     |     └── KwanghyunWorld 관리일지/
 │     └── 협업지원웹사이트/
 │           ├── 개발기간/
 │           └── 기슬스택 선택 or 자료조사/
